@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    color: $t_dark;
+    cursor: url('../images/mouse.png'), auto;
+}
+
+.brd {
+    border: 1px solid;
+}
